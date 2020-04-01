@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Practice with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavitra19/Node.js-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavitra19/Node.js-Practice/issues"
+  },
+  "homepage": "https://github.com/Pavitra19/Node.js-Practice#readme",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
