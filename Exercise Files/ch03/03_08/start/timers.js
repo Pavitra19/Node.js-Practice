@@ -10,7 +10,6 @@ const incTime = () => {
   process.stdout.write(`waiting...${p}%`);
 };
 
-//test
 console.log(`setting a ${waitTime / 1000} second delay`);
 
 const timerFinished = () => {
